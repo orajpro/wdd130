@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-
 main {
   max-width: 840px;
 }
@@ -64,7 +63,7 @@ aside img {
 
 aside h2 {
   position: absolute;
-  top: 60px;
+  top: 50px;
   left: 135px;
 }
 
@@ -76,19 +75,13 @@ footer {
 
 /* Class Selectors */
 .box {
-  margin: 1rem;
+  margin: 1em;
   border: 1px solid rgba(0,0,0,.1);
   padding: 1rem;
   background-color: #ddd;
   color: #000;
 }
 
-aside {
-  width: 20em;
-  text-align: center;
-  position: relative;
-}
-
 .indent {
-    margin-left: 1rem;
+    padding-left: 2rem;
 }
