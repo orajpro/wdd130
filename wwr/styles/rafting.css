@@ -29,6 +29,14 @@ body {
    height: auto;
 }
 
+.hero img {
+    margin-bottom: 0px;
+    margin-right: 14px;
+    margin-left: 0px;
+    margin-top: 22px;
+}
+
+
 .hero {
     position: relative;
   }
