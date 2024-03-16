@@ -36,9 +36,9 @@ body {
 .hero h1{
     background-color: rgba(21, 25, 28, 0.486); /* a semi-transparent black background */
     color: rgb(234, 234, 234); /* white color text for contrast */
-    margin-bottom: 0px;
-    margin-left: 290px;
-    margin-right: 280px;
+    margin-bottom: 50px;
+    margin-left: 230px;
+    margin-right: 230px;
     margin-top: 57px;
 }
 
