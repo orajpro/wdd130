@@ -24,9 +24,9 @@ body {
 }
 
 .hero img {
-   display: block;
-   width: 100%;
-   height: auto;
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 .hero img {
@@ -68,7 +68,6 @@ p {
     padding: 1rem;
 }
   
-
 .hero article img {
    float: right;
 }
