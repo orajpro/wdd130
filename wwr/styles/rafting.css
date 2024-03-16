@@ -45,8 +45,8 @@ body {
 }
 
 .hero article {
-   background-color: rgba(9, 99, 190, 0.486); /* un fondo negro semi-transparente */
-   color: white; /* texto en color blanco para contraste */
+   background-color: rgba(66, 215, 220, 0.486); /* un fondo negro semi-transparente */
+   color: rgb(0, 0, 0); /* texto en color blanco para contraste */
 }
 
 .hero article img {
