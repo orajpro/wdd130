@@ -19,7 +19,7 @@
 body {
      margin: 0;
      padding: 0;
-     max-width: 1100px; /* puedes ajustar este valor a tu gusto */
+     max-width: 1000px; /* puedes ajustar este valor a tu gusto */
      margin: auto;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .hero article {
-   background-color: rgba(0, 0, 0, 0.7); /* un fondo negro semi-transparente */
+   background-color: rgba(9, 99, 190, 0.486); /* un fondo negro semi-transparente */
    color: white; /* texto en color blanco para contraste */
 }
 
