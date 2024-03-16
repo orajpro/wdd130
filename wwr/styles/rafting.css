@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@100..900&display=swap');
 
   :root {
-     --primary-color: #071d29;
+     --primary-color: #446cf1;
      --secondary-color: #ff4747;
-     --accent1-color: #122329;
+     --accent1-color: #291f12;
      --accent2-color: #a8f7c4;
      --accent3-color: #edc175;
    
@@ -45,10 +45,21 @@ body {
 }
 
 .hero article {
-   background-color: rgba(66, 215, 220, 0.486); /* un fondo negro semi-transparente */
-   color: rgb(0, 0, 0); /* texto en color blanco para contraste */
+   background-color: rgba(11, 97, 158, 0.486); /* un fondo negro semi-transparente */
+   color: rgb(255, 255, 255); /* texto en color blanco para contraste */
 }
 
 .hero article img {
    float: right;
 }
+
+h2 {
+    font-family: var(--heading-font);
+    /* font-optical-sizing: auto; */
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    color: var(--primary-color);
+}
+  
+   
