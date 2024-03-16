@@ -1,24 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@100..900&display=swap');
 
-:root {
-   --primary-color: #071d29;
-   --secondary-color: #ff4747;
-   --accent1-color: #122329;
-   --accent2-color: #a8f7c4;
-   --accent3-color: #edc175;
+  :root {
+     --primary-color: #071d29;
+     --secondary-color: #ff4747;
+     --accent1-color: #122329;
+     --accent2-color: #a8f7c4;
+     --accent3-color: #edc175;
+   
+     --heading-font: 'Rokkitt', serif;
+     --paragraph-font: 'Rokkitt', serif;
   
-   --heading-font: 'Rokkitt', serif;
-   --paragraph-font: 'Rokkitt', serif;
-  
-   --nav-link-color: #FFFFFF;
-   --nav-background-color: #faba75;
-   --nav-hover-link-color: #faba75;
-   --nav-hover-background-color: #ffffff;
+     --nav-link-color: #FFFFFF;
+     --nav-background-color: #faba75;
+     --nav-hover-link-color: #faba75;
+     --nav-hover-background-color: #ffffff;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    max-width: 1000px; /* puedes ajustar este valor a tu gusto */
-    margin: auto;
-  }
+     margin: 0;
+     padding: 0;
+     max-width: 1100px; /* puedes ajustar este valor a tu gusto */
+     margin: auto;
+}
+
+.hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
