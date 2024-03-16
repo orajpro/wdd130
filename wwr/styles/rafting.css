@@ -57,6 +57,11 @@ body {
    margin-top: 50px;
 }
 
+p {
+    padding: 1rem;
+}
+  
+
 .hero article img {
    float: right;
 }
