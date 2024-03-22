@@ -110,7 +110,7 @@ main {
 }
 
 aside {
-  width: 17rem;
+  width: 19rem;
   position: relative;
   grid-column: 1/2;
   grid-row: 1/2;
