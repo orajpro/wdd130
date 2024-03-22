@@ -32,11 +32,11 @@ h1 {
 }
 
 main {
-  max-width: 400px;
+  max-width: 390px;
 }
 
 main img {
-  width: 150px;
+  width: 140px;
   height: auto;
   border: 1px solid steelblue;
   padding: 2px;
@@ -46,7 +46,7 @@ main img {
 }
 
 p { 
-  margin: 1rem 0;
+  margin: 1rem;
 }
 
 aside {
@@ -64,14 +64,14 @@ aside {
 }
 
 aside img {
-  width: 200px;
+  width: 197px;
   height: auto;
 }
 
 aside h2 {
   position: absolute;
   top: 50px;
-  left: 96px;
+  left: 89px;
 }
 
 footer {
