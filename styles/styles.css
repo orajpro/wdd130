@@ -23,13 +23,13 @@ nav a {
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: 700;
-  color: #fff; 
+  color: #fff;
 }
 
 h1 {
-  color: steelblue;
-  padding: .5rem
-  
+   color: steelblue;
+   padding: .5rem;
+   border-bottom: 2px solid steelblue;
 }
 
 main {
@@ -37,7 +37,7 @@ main {
 }
 
 main img {
-  width: 140px;
+  width: 148px;
   height: auto;
   border: 1px solid steelblue;
   padding: 2px;
@@ -71,8 +71,8 @@ aside img {
 
 aside h2 {
   position: absolute;
-  top: 58px;
-  left: 125px;
+  top: 60px;
+  left: 112px;
 }
 
 footer {
@@ -110,7 +110,7 @@ main {
 }
 
 aside {
-  width: 20rem;
+  width: 17rem;
   position: relative;
   grid-column: 1/2;
   grid-row: 1/2;
