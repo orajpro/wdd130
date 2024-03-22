@@ -17,12 +17,12 @@ nav {
 }
 
 nav a {
-  color: #fffffff2;
   display: block;
   padding: 0.5rem;
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: 700;
+  color: #fff; /% shorthand for white %/
 }
 
 h1 {
