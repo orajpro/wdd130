@@ -22,7 +22,7 @@ nav a {
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: 700;
-  color: #fff; /% shorthand for white %/
+  color: #fff; 
 }
 
 h1 {
@@ -71,7 +71,7 @@ aside img {
 aside h2 {
   position: absolute;
   top: 60px;
-  left: 112px;
+  left: 117px;
 }
 
 footer {
@@ -109,7 +109,7 @@ main {
 }
 
 aside {
-  width: 19rem;
+  width: 18rem;
   position: relative;
   grid-column: 1/2;
   grid-row: 1/2;
