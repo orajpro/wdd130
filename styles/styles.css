@@ -33,7 +33,7 @@ h1 {
 }
 
 main {
-  max-width: 650px;
+  max-width: 400px;
 }
 
 main img {
@@ -60,8 +60,8 @@ aside {
   color: #333;
   text-align: center;
   position: relative;
-  top: 10px;
-  left: 50px;
+  top: 5px;
+  left: 52px;
 }
 
 aside img {
@@ -72,8 +72,7 @@ aside img {
 aside h2 {
   position: absolute;
   top: 50px;
-  left: 135px;
-
+  left: 96px;
 }
 
 footer {
@@ -111,7 +110,7 @@ main {
 }
 
 aside {
-  width: 20rem;
+  width: 15rem;
   position: relative;
   grid-column: 1/2;
   grid-row: 1/2;
